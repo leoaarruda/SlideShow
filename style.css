@@ -99,13 +99,13 @@ input {
 @media (max-width: 380px) {
 
     .navegacao {
-        margin-top: 620px;
+        margin-top: 610px;
         left: 35%;
     }
 
     .barra_navegacao {
-        width: 8px;
-        height: 8px;
+        width: 10px;
+        height: 10px;
         border: 2px solid #FFF;
         margin:6px;
     }
