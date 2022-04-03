@@ -80,3 +80,33 @@ input {
 #slide5:checked~.s1 {
     margin-left: -80%;
 }
+
+@media (max-width: 920px ) {
+
+    .navegacao {
+        margin-top: 610px;
+        left: 44%;
+    }
+
+    .barra_navegacao {
+        width: 10px;
+        height: 10px;
+        border: 2px solid #FFF;
+        margin: 6px;
+    }
+}
+
+@media (max-width: 380px) {
+
+    .navegacao {
+        margin-top: 620px;
+        left: 35%;
+    }
+
+    .barra_navegacao {
+        width: 8px;
+        height: 8px;
+        border: 2px solid #FFF;
+        margin:6px;
+    }
+}
